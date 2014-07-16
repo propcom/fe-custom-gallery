@@ -1,0 +1,42 @@
+{
+
+    "name": "fe-custom-gallery",
+    "authors": [
+   
+        "Samuel Woodbridge"
+
+    ],
+
+    "description": "Propcom CP gallery integration",
+    "main": "fe-custom-gallery.php",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/propcom/fe-custom-gallery.git"
+
+    },
+
+    "keywords": [
+
+        "Gallery",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom"
+
+    ],
+
+    "license": "Public",
+    "homepage": "https://github.com/propcom/fe-custom-gallery.git",
+
+    "ignore" : [
+
+    ],
+
+    "install" : {
+
+        "fe-custom-gallery.php" : "fuel/app/views/inc"
+
+    }
+
+}
